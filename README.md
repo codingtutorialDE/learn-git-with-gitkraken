@@ -20,7 +20,7 @@ Um das Tutorial interaktiv durchzuarbeiten, können Sie folgende Schritte befolg
 
 7. Jede Person sollte jetzt das Repository von dem der eingeladen hat lokal in GitKraken Git GUI geladen und verfügbar haben. 
 
-8. Kopiert jetzt die Zeilen 41 - 49 aus der index.html. 
+8. Kopiert jetzt die Zeilen 39 - 68 aus der index.html. 
 
 9. Ergänzt jetzt die Zeilen einfach mit ein paar Details zu euch.
 
